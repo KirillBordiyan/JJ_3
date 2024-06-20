@@ -124,8 +124,6 @@ public class Homework {
 
                 map.put(department,
                         map.getOrDefault(department, list));
-
-
             }
             return map;
         }
